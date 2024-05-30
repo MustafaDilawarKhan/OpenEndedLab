@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.TilePane?>
+<?import javafx.scene.layout.VBox?>
+
+<TilePane fx:id="tilePane" xmlns:fx="http://javafx.com/fxml" fx:controller="com.example.openendedlab.ProductController"
+          hgap="10" vgap="10" prefColumns="2">
+  <!-- Dynamic content will be added here -->
+</TilePane>
